@@ -11,7 +11,7 @@ PintoCabeludo was a GDI-malware made by us made in Batch and VBS. This is a rema
 This malware is a Trojan with open source code, but if u want to skid any effect, bytebeats or MBR, give credit for us
 
 # CREDITS
-Wipet: https://github.com/whypet https://github.com/pankoza2-pl https://github.com/ArTicZera
+Wipet (ArTic put in Lixo.exe README a instruction to put credits for Wipet if u want to use Lixo effects): https://github.com/whypet Pankoza (Some GDI payloads): https://github.com/pankoza2-pl ArTic (Some GDI payloads): https://github.com/ArTicZera
 
 # SAFE AND DESTRUCTIVE
 ## Safe version
