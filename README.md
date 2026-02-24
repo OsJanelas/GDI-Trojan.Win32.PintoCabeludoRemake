@@ -1,8 +1,6 @@
-# Trojan.Win32.PintoCabeludoRemake
-  ______
- | |    |
-<|      |
- |______|
+### Trojan.Win32.PintoCabeludoRemake
+______________________________________________________________________________
+
 # WARNING
 The creators of PintoCabeludo don't have any responsibility of any damage of your machine
 
