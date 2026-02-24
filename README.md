@@ -19,3 +19,6 @@ The Safe version is a version without warnings, bootsector, only have GDI payloa
 
 ## Destructive version
 The destructive version have warnings, MBR and GDI payloads with Bytebeats
+
+## COMPATIBILITY
+This malware only runs in x64 systems
