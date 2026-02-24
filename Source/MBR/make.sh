@@ -1,0 +1,1 @@
+nasm -f bin pintocabeludo.asm -o bootloader.img
